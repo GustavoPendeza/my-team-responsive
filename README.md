@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://gustavopendeza.github.io/my-team-responsive">
       Demo
     </a>
     <span> | </span>
@@ -34,6 +34,7 @@
 ## Overview
 
 ![screenshot](https://user-images.githubusercontent.com/53589614/231303463-20b78144-380f-4d64-8362-f9650fadb425.png)
+
 ![screenshot](https://user-images.githubusercontent.com/53589614/231540585-ab8e6f43-c497-4e66-9369-d88d097a4163.png)
 
 ### Built With
